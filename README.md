@@ -1,4 +1,4 @@
-# student_manager_system_GUI
+# student-manager-system-GUI
 第一次写的java项目，JavaGUI+Mysql
 MySQL版本：8.0 MySQL-connector-java驱动包：8.0.11
 JDK版本：jdk8_211
